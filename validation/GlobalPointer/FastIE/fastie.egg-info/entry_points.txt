@@ -1,0 +1,2 @@
+[console_scripts]
+fastie-cli = fastie.cli:main

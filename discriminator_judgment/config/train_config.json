@@ -1,0 +1,17 @@
+{
+    "model": "bert-base-cased",
+    "train_path": "train-rl-001.tsv",
+    "dev_path": "dev.tsv",
+    "save_dir": "rm-001",
+    "max_seq_len": 512,
+    "batch_size": 4,
+    "learning_rate": 5e-5,
+    "weight_decay": 0.0,
+    "num_train_epochs": 10,
+    "warmup_ratio": 0.0,
+    "valid_steps": 10,
+    "logging_steps": 10,
+    "img_log_dir": "logs-001",
+    "img_log_name": "Model Performance",
+    "device": "cuda:0"
+}

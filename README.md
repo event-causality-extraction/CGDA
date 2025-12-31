@@ -64,12 +64,8 @@ This work was supported by resources and inspirations from the following open-so
 ### [1. Cause_Event_Extraction](https://github.com/oyarsa/event_extraction/tree/causal-event-extraction)
 Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems
 ### [2. FastIE](https://github.com/xusenlinzy/FastIE/tree/master)
-此项目为开源文本分类、实体抽取、关系抽取和事件抽取模型的训练和推理提供统一的框架，具有以下特性
-
-✨ 支持多种开源文本分类、实体抽取、关系抽取和事件抽取模型
-
-👑 支持百度 UIE 模型的训练和推理
-
-🚀 统一的训练和推理框架
-
-🎯 集成对抗训练方法，简便易用
+This project provides a unified framework for training and inference of open-source models for text classification, entity extraction, relation extraction, and event extraction, featuring the following:
+✨ Support for multiple open-source models for text classification, entity extraction, relation extraction, and event extraction
+👑 Support for training and inference with Baidu's UIE model
+🚀 A unified training and inference framework
+🎯 Integrated adversarial training methods—simple and easy to use
